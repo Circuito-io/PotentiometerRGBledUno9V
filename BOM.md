@@ -8,6 +8,7 @@ Input:
 Output:
 
 [LED - RGB Clear Common Anode](https://www.sparkfun.com/products/10820)
+
 -Additionals:
 
 -[330 ohm resistor](https://www.sparkfun.com/products/8377) - Quantity:3
